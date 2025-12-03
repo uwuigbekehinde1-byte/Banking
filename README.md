@@ -2,7 +2,7 @@
 
 RESTful API plus optional console runner for basic banking operations using Spring Boot, JDBC, and MySQL.
 
-**Live demo:** 
+**Live demo:** https://streamable.com/faiytm
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
