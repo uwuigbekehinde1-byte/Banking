@@ -2,7 +2,7 @@
 
 RESTful API plus optional console runner for basic banking operations using Spring Boot, JDBC, and MySQL.
 
-**Live demo:** https://mjabank.vercel.app/
+**Live demo:** 
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
